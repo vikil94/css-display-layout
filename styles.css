@@ -12,7 +12,8 @@ h2 {
   border-top: 50%;
   padding-left: 10px;
   font-family: cursive;
-  margin-left:135px;
+  margin-left:325px;
+  margin-right: 325px;
 }
 
 .hi {
@@ -49,4 +50,12 @@ figure {
 strong {
   text-decoration: underline;
   text-decoration-color: yellow;
+}
+
+footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
 }
